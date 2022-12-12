@@ -5,7 +5,6 @@
   
   Integration à l'environement HomeKit apple de mon capteur de qualité de l'air (température, humidité et CO2)
   
-  Youtube link : 
 
 -------------------------------------
 ## Matériels ##
